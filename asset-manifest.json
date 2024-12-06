@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dnd-dc-calculator/static/css/main.d25d50a4.css",
+    "main.js": "/dnd-dc-calculator/static/js/main.e0ec8692.js",
+    "static/js/488.076f812a.chunk.js": "/dnd-dc-calculator/static/js/488.076f812a.chunk.js",
+    "index.html": "/dnd-dc-calculator/index.html",
+    "main.d25d50a4.css.map": "/dnd-dc-calculator/static/css/main.d25d50a4.css.map",
+    "main.e0ec8692.js.map": "/dnd-dc-calculator/static/js/main.e0ec8692.js.map",
+    "488.076f812a.chunk.js.map": "/dnd-dc-calculator/static/js/488.076f812a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d25d50a4.css",
+    "static/js/main.e0ec8692.js"
+  ]
+}
